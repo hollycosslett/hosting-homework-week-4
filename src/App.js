@@ -13,7 +13,6 @@ export default function App() {
           <Main />
           <Footer />
         </div>
-        <p>This was coded by Holly Cosslett and is open-sourced on GitHub.</p>
         <script src="src/index.js"></script>
       </body>
     </div>
