@@ -8,15 +8,18 @@ export default function Footer() {
         {" "}
         Holly Cosslett
       </a>
-      , is
+      , is open-sourced on
+      <a
+        href="https://github.com/hollycosslett/hosting-homework-week-4"
+        target="_blank"
+      >
+        {" "}
+        GitHub
+      </a>
+      and hosted on
       <a href="#" target="_blank">
         {" "}
-        open-sourced on GitHub
-      </a>{" "}
-      and
-      <a href="#" target="_blank">
-        {" "}
-        hosted on Netlify.
+        Netlify.
       </a>
     </footer>
   );
