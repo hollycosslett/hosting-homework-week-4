@@ -15,7 +15,7 @@ export default function Footer() {
       >
         {" "}
         GitHub
-      </a>
+      </a>{" "}
       and hosted on
       <a href="#" target="_blank">
         {" "}
